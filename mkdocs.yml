@@ -1,19 +1,17 @@
-site_name: Documentos Renova,
+site_name: Documentos Renova
 site_description: |
   Documentação técnica dos sistemas Renova.
-copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=c9065f3a-a090-4243-8f69-145d5de7bfca" />
+copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia
 
 # Pages
 nav:
   - index.md
   - R-Inspection.md
   - api-index.md
-
+  - cfc.md
 # Plugins
 plugins:
-  - external-markdown
-  - render_swagger:
-      allow_arbitrary_locations : true
+ 
 
 # Config
 theme:
