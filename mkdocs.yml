@@ -4,7 +4,7 @@ site_description: |
 copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia
 
 # Pages
-nav: 
+nav:
   - index.md
   - R-Inspection.md
   - api-index.md
@@ -12,13 +12,11 @@ nav:
   # - CFC: "cfc.md"
   - "CFC":
     - "Gestão": "cfc.md"
-    - "Financeiro" : "Writing-you-docs.md"
+    - "Financeiro" : "financeiro.md"
     - "Identidade" : "styling-your-docs.md"
-    
 # Plugins
 plugins:
-   - swagger-ui-tag
- 
+  - swagger-ui-tag
 
 # Config
 theme:
