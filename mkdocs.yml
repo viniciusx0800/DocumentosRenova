@@ -4,13 +4,20 @@ site_description: |
 copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia
 
 # Pages
-nav:
+nav: 
   - index.md
   - R-Inspection.md
   - api-index.md
-  - cfc.md
+  # sub menu
+  # - CFC: "cfc.md"
+  - "CFC":
+    - "Gestão": "cfc.md"
+    - "Financeiro" : "Writing-you-docs.md"
+    - "Identidade" : "styling-your-docs.md"
+    
 # Plugins
 plugins:
+   - swagger-ui-tag
  
 
 # Config
