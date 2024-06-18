@@ -9,11 +9,16 @@ nav:
   - R-Inspection.md
   - api-index.md
   # sub menu
-  # - CFC: "cfc.md"
   - "CFC":
-    - "Gestão": "cfc.md"
-    - "Financeiro" : "financeiro.md"
-    - "Identidade" : "styling-your-docs.md"
+    - "Gestão": "./cfc/gestao.md"
+    - "Financeiro"          : "./cfc/financeiro.md"
+    - "Identidade"          : "./cfc/identidade.md"
+    - "Agendamento Digital" : "./cfc/agendamentodigital.md"
+    - "Agendamento Online"  : "./cfc/agendamentoonline.md"
+    - "Validação Digital"   : "./cfc/validacaodigital.md"
+    - "Biometric Matcher"   : "./cfc/biometric.md"
+    - "Tele Aula"           : "./cfc/teleaula.md"
+    # - "Identidade" : "styling-your-docs.md"
 # Plugins
 plugins:
   - swagger-ui-tag
