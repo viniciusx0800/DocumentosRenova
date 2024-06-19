@@ -10,14 +10,14 @@ nav:
   - api-index.md
   # sub menu
   - "CFC":
-    - "Gestão": "./cfc/gestao.md"
-    - "Financeiro"          : "./cfc/financeiro.md"
-    - "Identidade"          : "./cfc/identidade.md"
     - "Agendamento Digital" : "./cfc/agendamentodigital.md"
     - "Agendamento Online"  : "./cfc/agendamentoonline.md"
-    - "Validação Digital"   : "./cfc/validacaodigital.md"
     - "Biometric Matcher"   : "./cfc/biometric.md"
+    - "Financeiro"          : "./cfc/financeiro.md"
+    - "Gestão"              : "./cfc/gestao.md" 
+    - "Identidade"          : "./cfc/identidade.md"
     - "Tele Aula"           : "./cfc/teleaula.md"
+    - "Validação Digital"   : "./cfc/validacaodigital.md"
     # - "Identidade" : "styling-your-docs.md"
 # Plugins
 plugins:
