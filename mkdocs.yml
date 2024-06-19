@@ -2,6 +2,7 @@ site_name: Documentos Renova
 site_description: |
   Documentação técnica dos sistemas Renova.
 copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia
+repo_url: https://renova-ti.visualstudio.com/
 
 # Pages
 nav:
