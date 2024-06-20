@@ -19,6 +19,30 @@ nav:
     - "Identidade"          : "./cfc/identidade.md"
     - "Tele Aula"           : "./cfc/teleaula.md"
     - "Validação Digital"   : "./cfc/validacaodigital.md"
+  - "CBPM":
+    - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./cbpmapi/cbpm.md"
+    - "Litoteca Virtual": "./cbpmapi/litoteca.md"
+    - "R-Collector": "./cbpmapi/rcolector.md"
+    - "Upload Service": "./cbpmapi/upload.md"
+  - "ESCRITÓRIO DE PROJETOS":
+    - "ESCRITÓRIO DE PROJETOS": "./escritorio/escritorio.md"
+  - "MOTOR BIOMÉTRICO - RENOVA":
+    - "MOTOR BIOMÉTRICO - RENOVA": "./motorb/motor.md"
+  - "PROJETO POLÍCIA CIVIL":
+    - "Consulta Fotograma": "./projetopc/consultafoto.md"
+    - "R-Ged": "./projetopc/rged.md"
+    - "R-CroppingAPI": "./projetopc/rcropping.md"
+    - "R-Cropping Desktop": "./projetopc/rcroppingdesk.md"
+    - "R-CroppingPoC": "./projetopc/rcroppingpoc.md"
+    - "Route Biometric": "./projetopc/routebiometric.md"
+    - "Route BiometricAPI": "./projetopc/routebiometrica.md"
+  - "R-Collector":
+    - "Biometric Engine": "./rcollector/biometricengine.md"
+    - "CNH SyncAPI": "./rcollector/cnhsyncapi.md"
+    - "Diagrama(s)": "./rcollector/diagrama.md"
+    - "Modelagem Banco de Dados": "./rcollector/modelagembda.md"
+    - "RCollector":"./rcollector/rcolector.md"
+    
     # - "Identidade" : "styling-your-docs.md"
 # Plugins
 plugins:
