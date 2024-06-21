@@ -4,6 +4,12 @@ site_description: |
 copyright: Copyright &copy; 2024 - Renova Soluções em Tecnologia
 repo_url: https://renova-ti.visualstudio.com/
 
+markdown_extensions:
+ - pymdownx.tasklist
+ - pymdownx.emoji
+ - pymdownx.mark
+ - pymdownx.tilde
+ - attr_list
 # Pages
 nav:
   - index.md
@@ -22,46 +28,52 @@ nav:
   - "CBPM":
     - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./cbpmapi/cbpm.md"
     - "Litoteca Virtual": "./cbpmapi/litoteca.md"
-    - "R-Collector": "./cbpmapi/rcolector.md"
-    - "Upload Service": "./cbpmapi/upload.md"
-  - "ESCRITÓRIO DE PROJETOS":
-    - "ESCRITÓRIO DE PROJETOS": "./escritorio/escritorio.md"
+    - "R-Collector"     : "./cbpmapi/rcolector.md"
+    - "Upload Service"  : "./cbpmapi/upload.md"
+  - "ESCRITÓRIO DE PROJETOS"  :
+    - "Escritório de Projetos": "./escritorio/escritorio.md"
   - "MOTOR BIOMÉTRICO":
-    - "MOTOR BIOMÉTRICO": "./motorb/motor.md"
+    - "Motor Biométrico"   : "./motorb/motor.md"
   - "PROJETO POLÍCIA CIVIL":
-    - "Consulta Fotograma": "./projetopc/consultafoto.md"
-    - "R-Ged": "./projetopc/rged.md"
-    - "R-CroppingAPI": "./projetopc/rcropping.md"
-    - "R-Cropping Desktop": "./projetopc/rcroppingdesk.md"
-    - "R-CroppingPoC": "./projetopc/rcroppingpoc.md"
-    - "Route Biometric": "./projetopc/routebiometric.md"
-    - "Route BiometricAPI": "./projetopc/routebiometrica.md"    
+    - "Consulta Fotograma" : "./projetopc/consultafoto.md"
+    - "R-Ged"              : "./projetopc/rged.md"
+    - "R-CroppingAPI"      : "./projetopc/rcropping.md"
+    - "R-Cropping Desktop" : "./projetopc/rcroppingdesk.md"
+    - "R-CroppingPoC "     : "./projetopc/rcroppingpoc.md"
+    - "Route Biometric"    : "./projetopc/routebiometric.md"
+    - "Route BiometricAPI" : "./projetopc/routebiometrica.md"    
   - "R COLLECTOR" :
-    - "Biometric Engine": "./rcollector/biometricengine.md"
-    - "CNHSyncAPI": "./rcollector/cnhsyncapi.md"
-    - "Diagrama(s)": "./rcollector/diagrama.md"
+    - "Biometric Engine"        : "./rcollector/biometricengine.md"
+    - "CNHSyncAPI"              : "./rcollector/cnhsyncapi.md"
+    - "Diagrama(s)"             : "./rcollector/diagrama.md"
     - "Modelagem Banco de Dados": "./rcollector/modelagembda.md"
-    - "R-collector": "./rcollector/rcolector.md"
-    - "R-CollectorAPI": "./rcollector/rcolletorapi.md"
-    - "R-Collector Mobile": "./rcollector/rcollectormobile.md"
-    - "R-Collector Offiline": "./rcollector/rcollectorof.md"
-    - "R-Collector Online": "./rcollector/rcollectoron.md"
-    - "R-Collector Services": "./rcollector/rcollectorserv.md"
-    - "R-Collector CNHSync": "./rcollector/rcollectorcnh.md"
-    - "R-Collector WEB": "./rcollector/rcollectorweb.md"
+    - "R-collector"             : "./rcollector/rcolector.md"
+    - "R-CollectorAPI"          : "./rcollector/rcollectorapi.md"
+    - "R-Collector Mobile"      : "./rcollector/rcollectormobile.md"
+    - "R-Collector Offiline"    : "./rcollector/rcollectorof.md"
+    - "R-Collector Online"      : "./rcollector/rcollectoron.md"
+    - "R-Collector Services"    : "./rcollector/rcollectorserv.md"
+    - "R-Collector CNHSync"     : "./rcollector/rcollectorcnh.md"
+    - "R-Collector WEB"         : "./rcollector/rcollectorweb.md"
   - "R-INSPECTION":
-    - "Biometric Engine": "./rinspection/biometriceng.md"
-    - "Documentação": "./rinspection/documentacao.md"
+    - "Biometric Engine"        : "./rinspection/biometriceng.md"
+    - "Documentação"            : "./rinspection/documentacao.md"
     - "Modelagem Banco de Dados": "./rinspection/modelagemdba.md"
-    - "R-Inspection 2.0": "./rinspection/rinspection2.0.md"
-    - "R-InspectionAPI": "./rinspection/rinspectionapi.md"
-    - "R-InspectionAPP": "./rinspection/rinspectionapp.md"
-    - "R-InspectionAPP 2.0": "./rinspection/rinspectionap2.0.md"
-    - "R"
+    - "R-Inspection 2.0"        : "./rinspection/rinspection2.0.md"
+    - "R-InspectionAPI"         : "./rinspection/rinspectionapi.md"
+    - "R-InspectionAPP"         : "./rinspection/rinspectionapp.md"
+    - "R-InspectionAPP 2.0"     : "./rinspection/rinspectionap2.0.md"
+    - "R-Inspection Transpiler" : "./rinspection/rinspectiontransp.md"
+  - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
+    - "Sistema de Monitoramento de Salas de Exames Presenciais": "./sistemadm/sistema.md"
+  - "SISTEMA R-CLÍNICAS DE TRÂNSITO"  :
+    - "Sistema R-Clínicas de Trânsito": "./sistemarc/sistemarcl.md"
 # Plugins
 plugins:
   - swagger-ui-tag
-
+  - search
+  - mkdocs-pdf
+  #- pdf-export
 # Config
 theme:
   name: material
