@@ -13,61 +13,101 @@ markdown_extensions:
 # Pages
 nav:
   - index.md
-  - R-Inspection.md
-  - api-index.md
   # sub menu
-  - "CFC":
-    - "Agendamento Digital" : "./cfc/agendamentodigital.md"
-    - "Agendamento Online"  : "./cfc/agendamentoonline.md"
-    - "Biometric Matcher"   : "./cfc/biometric.md"
-    - "Financeiro"          : "./cfc/financeiro.md"
-    - "Gestão"              : "./cfc/gestao.md" 
-    - "Identidade"          : "./cfc/identidade.md"
-    - "Tele Aula"           : "./cfc/teleaula.md"
-    - "Validação Digital"   : "./cfc/validacaodigital.md"
-  - "CBPM":
-    - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./cbpmapi/cbpm.md"
-    - "Litoteca Virtual": "./cbpmapi/litoteca.md"
-    - "R-Collector"     : "./cbpmapi/rcolector.md"
-    - "Upload Service"  : "./cbpmapi/upload.md"
-  - "ESCRITÓRIO DE PROJETOS"  :
-    - "Escritório de Projetos": "./escritorio/escritorio.md"
-  - "MOTOR BIOMÉTRICO":
-    - "Motor Biométrico"   : "./motorb/motor.md"
-  - "PROJETO POLÍCIA CIVIL":
-    - "Consulta Fotograma" : "./projetopc/consultafoto.md"
-    - "R-Ged"              : "./projetopc/rged.md"
-    - "R-CroppingAPI"      : "./projetopc/rcropping.md"
-    - "R-Cropping Desktop" : "./projetopc/rcroppingdesk.md"
-    - "R-CroppingPoC "     : "./projetopc/rcroppingpoc.md"
-    - "Route Biometric"    : "./projetopc/routebiometric.md"
-    - "Route BiometricAPI" : "./projetopc/routebiometrica.md"    
-  - "R COLLECTOR" :
-    - "Biometric Engine"        : "./rcollector/biometricengine.md"
-    - "CNHSyncAPI"              : "./rcollector/cnhsyncapi.md"
-    - "Diagrama(s)"             : "./rcollector/diagrama.md"
-    - "Modelagem Banco de Dados": "./rcollector/modelagembda.md"
-    - "R-collector"             : "./rcollector/rcolector.md"
-    - "R-CollectorAPI"          : "./rcollector/rcollectorapi.md"
-    - "R-Collector Mobile"      : "./rcollector/rcollectormobile.md"
-    - "R-Collector Offiline"    : "./rcollector/rcollectorof.md"
-    - "R-Collector Online"      : "./rcollector/rcollectoron.md"
-    - "R-Collector Services"    : "./rcollector/rcollectorserv.md"
-    - "R-Collector CNHSync"     : "./rcollector/rcollectorcnh.md"
-    - "R-Collector WEB"         : "./rcollector/rcollectorweb.md"
-  - "R-INSPECTION":
-    - "Biometric Engine"        : "./rinspection/biometriceng.md"
-    - "Documentação"            : "./rinspection/documentacao.md"
-    - "Modelagem Banco de Dados": "./rinspection/modelagemdba.md"
-    - "R-Inspection 2.0"        : "./rinspection/rinspection2.0.md"
-    - "R-InspectionAPI"         : "./rinspection/rinspectionapi.md"
-    - "R-InspectionAPP"         : "./rinspection/rinspectionapp.md"
-    - "R-InspectionAPP 2.0"     : "./rinspection/rinspectionap2.0.md"
-    - "R-Inspection Transpiler" : "./rinspection/rinspectiontransp.md"
-  - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
-    - "Sistema de Monitoramento de Salas de Exames Presenciais": "./sistemadm/sistema.md"
-  - "SISTEMA R-CLÍNICAS DE TRÂNSITO"  :
-    - "Sistema R-Clínicas de Trânsito": "./sistemarc/sistemarcl.md"
+  - Projetos:
+    - "CFC":
+      - "Agendamento Digital" : "./cfc/agendamentodigital.md"
+      - "Agendamento Online"  : "./cfc/agendamentoonline.md"
+      - "Biometric Matcher"   : "./cfc/biometric.md"
+      - "Financeiro"          : "./cfc/financeiro.md"
+      - "Gestão"              : "./cfc/gestao.md" 
+      - "Identidade"          : "./cfc/identidade.md"
+      - "Tele Aula"           : "./cfc/teleaula.md"
+      - "Validação Digital"   : "./cfc/validacaodigital.md"
+    - "CBPM":
+      - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./cbpmapi/cbpm.md"
+      - "Litoteca Virtual": "./cbpmapi/litoteca.md"
+      - "R-Collector"     : "./cbpmapi/rcolector.md"
+      - "Upload Service"  : "./cbpmapi/upload.md"
+    - "ESCRITÓRIO DE PROJETOS"  :
+      - "Escritório de Projetos": "./escritorio/escritorio.md"
+    - "MOTOR BIOMÉTRICO":
+      - "Motor Biométrico"   : "./motorb/motor.md"
+    - "PROJETO POLÍCIA CIVIL":
+      - "Consulta Fotograma" : "./projetopc/consultafoto.md"
+      - "R-Ged"              : "./projetopc/rged.md"
+      - "R-CroppingAPI"      : "./projetopc/rcropping.md"
+      - "R-Cropping Desktop" : "./projetopc/rcroppingdesk.md"
+      - "R-CroppingPoC "     : "./projetopc/rcroppingpoc.md"
+      - "Route Biometric"    : "./projetopc/routebiometric.md"
+      - "Route BiometricAPI" : "./projetopc/routebiometrica.md"    
+    - "R COLLECTOR" :
+      - "Biometric Engine"        : "./rcollector/biometricengine.md"
+      - "CNHSyncAPI"              : "./rcollector/cnhsyncapi.md"
+      - "Diagrama(s)"             : "./rcollector/diagrama.md"
+      - "Modelagem Banco de Dados": "./rcollector/modelagembda.md"
+      - "R-collector"             : "./rcollector/rcolector.md"
+      - "R-CollectorAPI"          : "./rcollector/rcollectorapi.md"
+      - "R-Collector Mobile"      : "./rcollector/rcollectormobile.md"
+      - "R-Collector Offiline"    : "./rcollector/rcollectorof.md"
+      - "R-Collector Online"      : "./rcollector/rcollectoron.md"
+      - "R-Collector Services"    : "./rcollector/rcollectorserv.md"
+      - "R-Collector CNHSync"     : "./rcollector/rcollectorcnh.md"
+      - "R-Collector WEB"         : "./rcollector/rcollectorweb.md"
+    - "R-INSPECTION":
+      - "Biometric Engine"        : "./rinspection/biometriceng.md"
+      - "Documentação"            : "./rinspection/documentacao.md"
+      - "Modelagem Banco de Dados": "./rinspection/modelagemdba.md"
+      - "R-Inspection 2.0"        : "./rinspection/rinspection2.0.md"
+      - "R-InspectionAPI"         : "./rinspection/rinspectionapi.md"
+      - "R-InspectionAPP"         : "./rinspection/rinspectionapp.md"
+      - "R-InspectionAPP 2.0"     : "./rinspection/rinspectionap2.0.md"
+      - "R-Inspection Transpiler" : "./rinspection/rinspectiontransp.md"
+    - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
+      - "Sistema de Monitoramento de Salas de Exames Presenciais": "./sistemadm/sistema.md"
+    - "ECM INSTITUTO PEDRO MELO" :
+      - "ECM Instituto Pedro Melo ": "./institutopm/ecminstituto.md"
+    - "F ASSINATURA" :
+      - "F Assinatura" : "./fassinatura/fassinatura.md"
+    - "RENOVA TI":
+      - "Renova Ti": "./renovati/renovati.md"
+    - "INTERPRINT BAHIA":
+      - "Interprint Bahia": "./interprintbahia/interprintba.md"
+    - "SGDD CGO RENACH":
+      - "Sgdd Cgo Renach": "./sgdrenach/renach.md"
+    - "R MONITORA":
+      - "R Monitora": "./rmonitora/rmonitora.md"
+    - "GED DETRAN BAHIA":
+      - "Ged Detran Bahia": "./geddetranba/geddetranba.md"
+    - "F ARQUIVO":
+      - "F Arquivo": "./farquivo/farquivo.md"
+    - "R MONITORAMENTO BAHIA":
+      - "R Monitoramento Bahia": "./rmonitoramento/monitoramentoba.md"
+    - "R CLINICA TRANSITO BAHIA":
+      - "R Clinica transito Bahia": "./rclinica/rclinicatrba.md"
+    - "DIGITALIZAÇÃO CBPM":
+      - "Digitalização Cbpm": "./digitalizacao_cbpm/digitalizacaocbpm.md"
+    - "DIGITALIZAÇÃO PCPA":
+      - "Digitalização Pcpa": "./digitalizacaopcpa/digitalizapcpa.md"
+    - "CONSULTA WEB PCPA":
+      - "Consulta Web Pcpa": "./consulta_web/consultawebpcpa.md"
+    - "LITOTECA DIGITAL CBPM":
+      - "Litoteca Digital Cbpm": "./litotecadigital/litotecaDigital.md"
+    - "R INSPECTION BAHIA":
+      - "R inspection Bahia": "./Rinspectionba/rinspectionba.md"
+    - "CFC AULA PRESENCIAIS BAHIA":
+      - "Cfc Aula Presenciais Bahia": "./cfc_aula_presenciais/cfcaula.md"
+    - "CFC AULA REMOTA BAHIA":
+      - "Cfc Aula Presenciais Bahia": "./cfc_aula_remota/cfcaularemota.md"
+    - "CAPTURA BIOMÉTRICA CBPM":
+      - "Captura Biométrica cbpm": "./captura_biometrica/captura.md"
+    - "R COLLECTOR DETRAN/PA":
+      - "R Collector Detran/PA": "./rcollector_detran/rcollectorpa.md"
+    - "CROPPING PCPA":
+      - "Cropping Pcpa": "./cropping_pcpa/croppingp.md"
+  # - Departamento Pessoal:
+  #   - "Exemplo": "Exemplo"
+  
 # Plugins
 plugins:
   - swagger-ui-tag
@@ -99,4 +139,22 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/main-logo.svg
+## Footer
+
+# - **Contact Information**
+#   - Email: your-email@example.com
+#   - Phone: (123) 456-7890
+
+# - **Social Media**
+#   - [Twitter](https://twitter.com/your-twitter)
+#   - [Facebook](https://facebook.com/your-facebook)
+#   - [Instagram](https://instagram.com/your-instagram)
+
+# - **Quick Links**
+#   - [Home](/)
+#   - [About Us](/about)
+#   - [Services](/services)
+#   - [Contact Us](/contact)
+
+# © 2024 Your Website Name. All rights reserved.
 
