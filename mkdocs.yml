@@ -16,103 +16,103 @@ nav:
   # sub menu
   - Projetos:
     - "CBPM":
-      - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./Cbpmapi/cbpm.md"
-      - "Litoteca Virtual": "./Cbpmapi/litoteca.md"
-      - "R-Collector"     : "./Cbpmapi/rcolector.md"
-      - "Upload Service"  : "./Cbpmapi/upload.md"
-    - "CFC":
-      - "Agendamento Digital" : "./Cfc/agendamentodigital.md"
-      - "Agendamento Online"  : "./Cfc/agendamentoonline.md"
-      - "Biometric Matcher"   : "./Cfc/biometric.md"
-      - "Financeiro"          : "./Cfc/financeiro.md"
-      - "Gestão"              : "./Cfc/gestao.md" 
-      - "Identidade"          : "./Cfc/identidade.md"
-      - "Tele Aula"           : "./Cfc/teleaula.md"
-      - "Validação Digital"   : "./Cfc/validacaodigital.md"
+      - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./Projetos_Renova/Cbpmapi/cbpm.md"
+      - "Litoteca Virtual": "./Projetos_Renova/Cbpmapi/litoteca.md"
+      - "R-Collector"     : "./Projetos_Renova/Cbpmapi/rcolector.md"
+      - "Upload Service"  : "./Projetos_Renova/Cbpmapi/upload.md"
+    - "CFC RENOVA":
+      - "Agendamento Digital" : "./Projetos_Renova/Cfc/agendamentodigital.md"
+      - "Agendamento Online"  : "./Projetos_Renova/Cfc/agendamentoonline.md"
+      - "Biometric Matcher"   : "./Projetos_Renova/Cfc/biometric.md"
+      - "Financeiro"          : "./Projetos_Renova/Cfc/financeiro.md"
+      - "Gestão"              : "./Projetos_Renova/Cfc/gestao.md" 
+      - "Identidade"          : "./Projetos_Renova/Cfc/identidade.md"
+      - "Tele Aula"           : "./Projetos_Renova/Cfc/teleaula.md"
+      - "Validação Digital"   : "./Projetos_Renova/Cfc/validacaodigital.md"
     - "CFC AULA PRESENCIAIS BAHIA":
-      - "Cfc Aula Presenciais Bahia": "./Cfc_Aula_Presenciais/cfcaula.md"
+      - "Cfc Aula Presenciais Bahia": "./Projetos_Renova/Cfc_Aula_Presenciais/cfcaula.md"
     - "CFC AULA REMOTA BAHIA":
-      - "Cfc Aula Presenciais Bahia": "./Cfc_Aula_Remota/cfcaularemota.md"
+      - "Cfc Aula Presenciais Bahia": "./Projetos_Renova/Cfc_Aula_Remota/cfcaularemota.md"
     - "CAPTURA BIOMÉTRICA CBPM":
-      - "Captura Biométrica cbpm"   : "./Captura_Biometrica/captura.md"
+      - "Captura Biométrica cbpm"   : "./Projetos_Renova/Captura_Biometrica/captura.md"
     - "CENTRAL DE MONITORAMENTO (MOC)":
-      - "Central de Monitoramento": "./Central_de_mto/centralmto.md"  
+      - "Central de Monitoramento": "./Projetos_Renova/Central_de_mto/centralmto.md"  
     - "CONSULTA WEB PCPA":
-      - "Consulta Web Pcpa"     : "./Consulta_web/consultawebpcpa.md"
+      - "Consulta Web Pcpa"     : "./Projetos_Renova/Consulta_web/consultawebpcpa.md"
     - "CROPPING PCPA":
-      - "Cropping Pcpa"         : "./Cropping_pcpa/croppingp.md"
+      - "Cropping Pcpa"         : "./Projetos_Renova/Cropping_pcpa/croppingp.md"
     - "CUSTO AZURE":
-      - "Custo Azure"           : "./Custo_Azure/custoazure.md"
+      - "Custo Azure"           : "./Projetos_Renova/Custo_Azure/custoazure.md"
     - "DIGITALIZAÇÃO CBPM":
-      - "Digitalização Cbpm"    : "./Digitalizacao_cbpm/digitalizacaocbpm.md"
+      - "Digitalização Cbpm"    : "./Projetos_Renova/Digitalizacao_cbpm/digitalizacaocbpm.md"
     - "DIGITALIZAÇÃO PCPA":
-      - "Digitalização Pcpa"    : "./Digitalizacao_pcpa/digitalizapcpa.md"
+      - "Digitalização Pcpa"    : "./Projetos_Renova/Digitalizacao_pcpa/digitalizapcpa.md"
     - "ESCRITÓRIO DE PROJETOS"  :
-      - "Escritório de Projetos": "./Escritorio_de_Projetos/escritorio.md"
+      - "Escritório de Projetos": "./Projetos_Renova/Escritorio_de_Projetos/escritorio.md"
     - "ECM INSTITUTO PEDRO MELO":
-      - "ECM Instituto Pedro Melo": "./Instituto_Pedro_Melo/ecminstituto.md"
+      - "ECM Instituto Pedro Melo": "./Projetos_Renova/Instituto_Pedro_Melo/ecminstituto.md"
     - "F ASSINATURA":
-      - "F Assinatura"            : "./F-Assinatura/fassinatura.md"
+      - "F Assinatura"            : "./Projetos_Renova/F-Assinatura/fassinatura.md"
     - "F ARQUIVO":
-      - "F Arquivo"               : "./F-Arquivo/farquivo.md"
+      - "F Arquivo"               : "./Projetos_Renova/F-Arquivo/farquivo.md"
     - "GED DETRAN BAHIA":
-      - "Ged Detran Bahia"        : "./Ged_detran_Bahia/geddetranba.md"
+      - "Ged Detran Bahia"        : "./Projetos_Renova/Ged_detran_Bahia/geddetranba.md"
     - "INTERPRINT BAHIA":
-      - "Interprint Bahia"        : "./Interprint_Bahia/interprintba.md"
+      - "Interprint Bahia"        : "./Projetos_Renova/Interprint_Bahia/interprintba.md"
     - "LITOTECA DIGITAL CBPM":
-      - "Litoteca Digital Cbpm"   : "./Litoteca_Digital/litotecaDigital.md"
+      - "Litoteca Digital Cbpm"   : "./Projetos_Renova/Litoteca_Digital/litotecaDigital.md"
     - "MOTOR BIOMÉTRICO":
-      - "Motor Biométrico"   : "./Motor_Biometrico/motor.md"
+      - "Motor Biométrico"   : "./Projetos_Renova/Motor_Biometrico/motor.md"
     - "PROJETO POLÍCIA CIVIL":
-      - "Consulta Fotograma" : "./Projeto_Policia_civil/consultafoto.md"
-      - "R-Ged"              : "./Projeto_Policia_civil/rged.md"
-      - "R-CroppingAPI"      : "./Projeto_Policia_civil/rcropping.md"
-      - "R-Cropping Desktop" : "./Projeto_Policia_civil/rcroppingdesk.md"
-      - "R-CroppingPoC "     : "./Projeto_Policia_civil/rcroppingpoc.md"
-      - "Route Biometric"    : "./Projeto_Policia_civil/routebiometric.md"
-      - "Route BiometricAPI" : "./Projeto_Policia_civil/routebiometrica.md"    
+      - "Consulta Fotograma" : "./Projetos_Renova/Projeto_Policia_civil/consultafoto.md"
+      - "R-Ged"              : "./Projetos_Renova/Projeto_Policia_civil/rged.md"
+      - "R-CroppingAPI"      : "./Projetos_Renova/Projeto_Policia_civil/rcropping.md"
+      - "R-Cropping Desktop" : "./Projetos_Renova/Projeto_Policia_civil/rcroppingdesk.md"
+      - "R-CroppingPoC "     : "./Projetos_Renova/Projeto_Policia_civil/rcroppingpoc.md"
+      - "Route Biometric"    : "./Projetos_Renova/Projeto_Policia_civil/routebiometric.md"
+      - "Route BiometricAPI" : "./Projetos_Renova/Projeto_Policia_civil/routebiometrica.md"    
     - "R-COLLECTOR" :
-      - "Biometric Engine"        : "./R-collector/biometricengine.md"
-      - "CNHSyncAPI"              : "./R-collector/cnhsyncapi.md"
-      - "Diagrama(s)"             : "./R-collector/diagrama.md"
-      - "Modelagem Banco de Dados": "./R-collector/modelagembda.md"
-      - "R-collector"             : "./R-collector/rcolector.md"
-      - "R-CollectorAPI"          : "./R-collector/rcollectorapi.md"
-      - "R-Collector Mobile"      : "./R-collector/rcollectormobile.md"
-      - "R-Collector Offiline"    : "./R-collector/rcollectorof.md"
-      - "R-Collector Online"      : "./R-collector/rcollectoron.md"
-      - "R-Collector Services"    : "./R-collector/rcollectorserv.md"
-      - "R-Collector CNHSync"     : "./R-collector/rcollectorcnh.md"
-      - "R-Collector WEB"         : "./R-collector/rcollectorweb.md"
+      - "Biometric Engine"        : "./Projetos_Renova/R-collector/biometricengine.md"
+      - "CNHSyncAPI"              : "./Projetos_Renova/R-collector/cnhsyncapi.md"
+      - "Diagrama(s)"             : "./Projetos_Renova/R-collector/diagrama.md"
+      - "Modelagem Banco de Dados": "./Projetos_Renova/R-collector/modelagembda.md"
+      - "R-collector"             : "./Projetos_Renova/R-collector/rcolector.md"
+      - "R-CollectorAPI"          : "./Projetos_Renova/R-collector/rcollectorapi.md"
+      - "R-Collector Mobile"      : "./Projetos_Renova/R-collector/rcollectormobile.md"
+      - "R-Collector Offiline"    : "./Projetos_Renova/R-collector/rcollectorof.md"
+      - "R-Collector Online"      : "./Projetos_Renova/R-collector/rcollectoron.md"
+      - "R-Collector Services"    : "./Projetos_Renova/R-collector/rcollectorserv.md"
+      - "R-Collector CNHSync"     : "./Projetos_Renova/R-collector/rcollectorcnh.md"
+      - "R-Collector WEB"         : "./Projetos_Renova/R-collector/rcollectorweb.md"
     - "R-INSPECTION":
-      - "Biometric Engine"        : "./R-inspection/biometriceng.md"
-      - "Documentação"            : "./R-inspection/documentacao.md"
-      - "Modelagem Banco de Dados": "./R-inspection/modelagemdba.md"
-      - "R-Inspection 2.0"        : "./R-inspection/rinspection2.0.md"
-      - "R-InspectionAPI"         : "./R-inspection/rinspectionapi.md"
-      - "R-InspectionAPP"         : "./R-inspection/rinspectionapp.md"
-      - "R-InspectionAPP 2.0"     : "./R-inspection/rinspectionap2.0.md"
-      - "R-Inspection Transpiler" : "./R-inspection/rinspectiontransp.md"
+      - "Biometric Engine"        : "./Projetos_Renova/R-inspection/biometriceng.md"
+      - "Documentação"            : "./Projetos_Renova/R-inspection/documentacao.md"
+      - "Modelagem Banco de Dados": "./Projetos_Renova/R-inspection/modelagemdba.md"
+      - "R-Inspection 2.0"        : "./Projetos_Renova/R-inspection/rinspection2.0.md"
+      - "R-InspectionAPI"         : "./Projetos_Renova/R-inspection/rinspectionapi.md"
+      - "R-InspectionAPP"         : "./Projetos_Renova/R-inspection/rinspectionapp.md"
+      - "R-InspectionAPP 2.0"     : "./Projetos_Renova/R-inspection/rinspectionap2.0.md"
+      - "R-Inspection Transpiler" : "./Projetos_Renova/R-inspection/rinspectiontransp.md"
     - "R-INSPECTION BAHIA":
-      - "R inspection Bahia"      : "./R-inspectionba/rinspectionba.md"
+      - "R inspection Bahia"      : "./Projetos_Renova/R-inspectionba/rinspectionba.md"
     - "R-AUTENTICAR":
-      - "R Autenticar": "./R-Autenticar/rautenticar.md"
+      - "R Autenticar": "./Projetos_Renova/R-Autenticar/rautenticar.md"
     - "R-MONITORAMENTO BAHIA":
-      - "R Monitoramento Bahia"   : "./R-monitoramento/monitoramentoba.md"
+      - "R Monitoramento Bahia"   : "./Projetos_Renova/R-monitoramento/monitoramentoba.md"
     - "R-CLINICA TRANSITO BAHIA":
-      - "R Clinica transito Bahia": "./R-clinica/rclinicatrba.md"
+      - "R Clinica transito Bahia": "./Projetos_Renova/R-clinica/rclinicatrba.md"
     - "R-COLLECTOR DETRAN/PA":
-      - "R Collector Detran/PA"   : "./R-collector_detran/rcollectorpa.md"
+      - "R Collector Detran/PA"   : "./Projetos_Renova/R-collector_detran/rcollectorpa.md"
     - "R-MONITORA":
-      - "R Monitora"              : "./R-monitora/rmonitora.md"
+      - "R Monitora"              : "./Projetos_Renova/R-monitora/rmonitora.md"
     - "RENOVA TI":
-      - "Renova Ti"               : "./Renovati/renovati.md"
+      - "Renova Ti"               : "./Projetos_Renova/Renovati/renovati.md"
     - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
-      - "Sistema de Monitoramento de Salas de Exames Presenciais": "./Sistema_de_mto/sistema.md"
+      - "Sistema de Monitoramento de Salas de Exames Presenciais": "./Projetos_Renova/Sistema_de_mto/sistema.md"
     - "SISTEMA R-CLÍNICAS DE TRÂNSITO":
-      - "Sistema R-Clínicas de Trânsito": "./Sistema_R-Clinica/sistemarcl.md"
+      - "Sistema R-Clínicas de Trânsito": "./Projetos_Renova/Sistema_R-Clinica/sistemarcl.md"
     - "SGDD CGO RENACH":
-      - "Sgdd Cgo Renach"         : "./Sgd_renach/renach.md"
+      - "Sgdd Cgo Renach"         : "./Projetos_Renova/Sgd_renach/renach.md"
   # - Departamento Pessoal:
   #   - "Exemplo": "Exemplo"
   
