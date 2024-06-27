@@ -15,96 +15,104 @@ nav:
   - index.md
   # sub menu
   - Projetos:
-    - "CFC":
-      - "Agendamento Digital" : "./cfc/agendamentodigital.md"
-      - "Agendamento Online"  : "./cfc/agendamentoonline.md"
-      - "Biometric Matcher"   : "./cfc/biometric.md"
-      - "Financeiro"          : "./cfc/financeiro.md"
-      - "Gestão"              : "./cfc/gestao.md" 
-      - "Identidade"          : "./cfc/identidade.md"
-      - "Tele Aula"           : "./cfc/teleaula.md"
-      - "Validação Digital"   : "./cfc/validacaodigital.md"
     - "CBPM":
-      - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./cbpmapi/cbpm.md"
-      - "Litoteca Virtual": "./cbpmapi/litoteca.md"
-      - "R-Collector"     : "./cbpmapi/rcolector.md"
-      - "Upload Service"  : "./cbpmapi/upload.md"
-    - "ESCRITÓRIO DE PROJETOS"  :
-      - "Escritório de Projetos": "./escritorio/escritorio.md"
-    - "MOTOR BIOMÉTRICO":
-      - "Motor Biométrico"   : "./motorb/motor.md"
-    - "PROJETO POLÍCIA CIVIL":
-      - "Consulta Fotograma" : "./projetopc/consultafoto.md"
-      - "R-Ged"              : "./projetopc/rged.md"
-      - "R-CroppingAPI"      : "./projetopc/rcropping.md"
-      - "R-Cropping Desktop" : "./projetopc/rcroppingdesk.md"
-      - "R-CroppingPoC "     : "./projetopc/rcroppingpoc.md"
-      - "Route Biometric"    : "./projetopc/routebiometric.md"
-      - "Route BiometricAPI" : "./projetopc/routebiometrica.md"    
-    - "R COLLECTOR" :
-      - "Biometric Engine"        : "./rcollector/biometricengine.md"
-      - "CNHSyncAPI"              : "./rcollector/cnhsyncapi.md"
-      - "Diagrama(s)"             : "./rcollector/diagrama.md"
-      - "Modelagem Banco de Dados": "./rcollector/modelagembda.md"
-      - "R-collector"             : "./rcollector/rcolector.md"
-      - "R-CollectorAPI"          : "./rcollector/rcollectorapi.md"
-      - "R-Collector Mobile"      : "./rcollector/rcollectormobile.md"
-      - "R-Collector Offiline"    : "./rcollector/rcollectorof.md"
-      - "R-Collector Online"      : "./rcollector/rcollectoron.md"
-      - "R-Collector Services"    : "./rcollector/rcollectorserv.md"
-      - "R-Collector CNHSync"     : "./rcollector/rcollectorcnh.md"
-      - "R-Collector WEB"         : "./rcollector/rcollectorweb.md"
-    - "R-INSPECTION":
-      - "Biometric Engine"        : "./rinspection/biometriceng.md"
-      - "Documentação"            : "./rinspection/documentacao.md"
-      - "Modelagem Banco de Dados": "./rinspection/modelagemdba.md"
-      - "R-Inspection 2.0"        : "./rinspection/rinspection2.0.md"
-      - "R-InspectionAPI"         : "./rinspection/rinspectionapi.md"
-      - "R-InspectionAPP"         : "./rinspection/rinspectionapp.md"
-      - "R-InspectionAPP 2.0"     : "./rinspection/rinspectionap2.0.md"
-      - "R-Inspection Transpiler" : "./rinspection/rinspectiontransp.md"
-    - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
-      - "Sistema de Monitoramento de Salas de Exames Presenciais": "./sistemadm/sistema.md"
-    - "ECM INSTITUTO PEDRO MELO" :
-      - "ECM Instituto Pedro Melo ": "./institutopm/ecminstituto.md"
-    - "F ASSINATURA" :
-      - "F Assinatura" : "./fassinatura/fassinatura.md"
-    - "RENOVA TI":
-      - "Renova Ti": "./renovati/renovati.md"
-    - "INTERPRINT BAHIA":
-      - "Interprint Bahia": "./interprintbahia/interprintba.md"
-    - "SGDD CGO RENACH":
-      - "Sgdd Cgo Renach": "./sgdrenach/renach.md"
-    - "R MONITORA":
-      - "R Monitora": "./rmonitora/rmonitora.md"
-    - "GED DETRAN BAHIA":
-      - "Ged Detran Bahia": "./geddetranba/geddetranba.md"
-    - "F ARQUIVO":
-      - "F Arquivo": "./farquivo/farquivo.md"
-    - "R MONITORAMENTO BAHIA":
-      - "R Monitoramento Bahia": "./rmonitoramento/monitoramentoba.md"
-    - "R CLINICA TRANSITO BAHIA":
-      - "R Clinica transito Bahia": "./rclinica/rclinicatrba.md"
-    - "DIGITALIZAÇÃO CBPM":
-      - "Digitalização Cbpm": "./digitalizacao_cbpm/digitalizacaocbpm.md"
-    - "DIGITALIZAÇÃO PCPA":
-      - "Digitalização Pcpa": "./digitalizacaopcpa/digitalizapcpa.md"
-    - "CONSULTA WEB PCPA":
-      - "Consulta Web Pcpa": "./consulta_web/consultawebpcpa.md"
-    - "LITOTECA DIGITAL CBPM":
-      - "Litoteca Digital Cbpm": "./litotecadigital/litotecaDigital.md"
-    - "R INSPECTION BAHIA":
-      - "R inspection Bahia": "./Rinspectionba/rinspectionba.md"
+      - "CBPM - Campanhia Baiana de Pesquisa Mineral": "./Cbpmapi/cbpm.md"
+      - "Litoteca Virtual": "./Cbpmapi/litoteca.md"
+      - "R-Collector"     : "./Cbpmapi/rcolector.md"
+      - "Upload Service"  : "./Cbpmapi/upload.md"
+    - "CFC":
+      - "Agendamento Digital" : "./Cfc/agendamentodigital.md"
+      - "Agendamento Online"  : "./Cfc/agendamentoonline.md"
+      - "Biometric Matcher"   : "./Cfc/biometric.md"
+      - "Financeiro"          : "./Cfc/financeiro.md"
+      - "Gestão"              : "./Cfc/gestao.md" 
+      - "Identidade"          : "./Cfc/identidade.md"
+      - "Tele Aula"           : "./Cfc/teleaula.md"
+      - "Validação Digital"   : "./Cfc/validacaodigital.md"
     - "CFC AULA PRESENCIAIS BAHIA":
-      - "Cfc Aula Presenciais Bahia": "./cfc_aula_presenciais/cfcaula.md"
+      - "Cfc Aula Presenciais Bahia": "./Cfc_Aula_Presenciais/cfcaula.md"
     - "CFC AULA REMOTA BAHIA":
-      - "Cfc Aula Presenciais Bahia": "./cfc_aula_remota/cfcaularemota.md"
+      - "Cfc Aula Presenciais Bahia": "./Cfc_Aula_Remota/cfcaularemota.md"
     - "CAPTURA BIOMÉTRICA CBPM":
-      - "Captura Biométrica cbpm": "./captura_biometrica/captura.md"
-    - "R COLLECTOR DETRAN/PA":
-      - "R Collector Detran/PA": "./rcollector_detran/rcollectorpa.md"
+      - "Captura Biométrica cbpm"   : "./Captura_Biometrica/captura.md"
+    - "CENTRAL DE MONITORAMENTO (MOC)":
+      - "Central de Monitoramento": "./Central_de_mto/centralmto.md"  
+    - "CONSULTA WEB PCPA":
+      - "Consulta Web Pcpa"     : "./Consulta_web/consultawebpcpa.md"
     - "CROPPING PCPA":
-      - "Cropping Pcpa": "./cropping_pcpa/croppingp.md"
+      - "Cropping Pcpa"         : "./Cropping_pcpa/croppingp.md"
+    - "CUSTO AZURE":
+      - "Custo Azure"           : "./Custo_Azure/custoazure.md"
+    - "DIGITALIZAÇÃO CBPM":
+      - "Digitalização Cbpm"    : "./Digitalizacao_cbpm/digitalizacaocbpm.md"
+    - "DIGITALIZAÇÃO PCPA":
+      - "Digitalização Pcpa"    : "./Digitalizacao_pcpa/digitalizapcpa.md"
+    - "ESCRITÓRIO DE PROJETOS"  :
+      - "Escritório de Projetos": "./Escritorio_de_Projetos/escritorio.md"
+    - "ECM INSTITUTO PEDRO MELO":
+      - "ECM Instituto Pedro Melo": "./Instituto_Pedro_Melo/ecminstituto.md"
+    - "F ASSINATURA":
+      - "F Assinatura"            : "./F-Assinatura/fassinatura.md"
+    - "F ARQUIVO":
+      - "F Arquivo"               : "./F-Arquivo/farquivo.md"
+    - "GED DETRAN BAHIA":
+      - "Ged Detran Bahia"        : "./Ged_detran_Bahia/geddetranba.md"
+    - "INTERPRINT BAHIA":
+      - "Interprint Bahia"        : "./Interprint_Bahia/interprintba.md"
+    - "LITOTECA DIGITAL CBPM":
+      - "Litoteca Digital Cbpm"   : "./Litoteca_Digital/litotecaDigital.md"
+    - "MOTOR BIOMÉTRICO":
+      - "Motor Biométrico"   : "./Motor_Biometrico/motor.md"
+    - "PROJETO POLÍCIA CIVIL":
+      - "Consulta Fotograma" : "./Projeto_Policia_civil/consultafoto.md"
+      - "R-Ged"              : "./Projeto_Policia_civil/rged.md"
+      - "R-CroppingAPI"      : "./Projeto_Policia_civil/rcropping.md"
+      - "R-Cropping Desktop" : "./Projeto_Policia_civil/rcroppingdesk.md"
+      - "R-CroppingPoC "     : "./Projeto_Policia_civil/rcroppingpoc.md"
+      - "Route Biometric"    : "./Projeto_Policia_civil/routebiometric.md"
+      - "Route BiometricAPI" : "./Projeto_Policia_civil/routebiometrica.md"    
+    - "R-COLLECTOR" :
+      - "Biometric Engine"        : "./R-collector/biometricengine.md"
+      - "CNHSyncAPI"              : "./R-collector/cnhsyncapi.md"
+      - "Diagrama(s)"             : "./R-collector/diagrama.md"
+      - "Modelagem Banco de Dados": "./R-collector/modelagembda.md"
+      - "R-collector"             : "./R-collector/rcolector.md"
+      - "R-CollectorAPI"          : "./R-collector/rcollectorapi.md"
+      - "R-Collector Mobile"      : "./R-collector/rcollectormobile.md"
+      - "R-Collector Offiline"    : "./R-collector/rcollectorof.md"
+      - "R-Collector Online"      : "./R-collector/rcollectoron.md"
+      - "R-Collector Services"    : "./R-collector/rcollectorserv.md"
+      - "R-Collector CNHSync"     : "./R-collector/rcollectorcnh.md"
+      - "R-Collector WEB"         : "./R-collector/rcollectorweb.md"
+    - "R-INSPECTION":
+      - "Biometric Engine"        : "./R-inspection/biometriceng.md"
+      - "Documentação"            : "./R-inspection/documentacao.md"
+      - "Modelagem Banco de Dados": "./R-inspection/modelagemdba.md"
+      - "R-Inspection 2.0"        : "./R-inspection/rinspection2.0.md"
+      - "R-InspectionAPI"         : "./R-inspection/rinspectionapi.md"
+      - "R-InspectionAPP"         : "./R-inspection/rinspectionapp.md"
+      - "R-InspectionAPP 2.0"     : "./R-inspection/rinspectionap2.0.md"
+      - "R-Inspection Transpiler" : "./R-inspection/rinspectiontransp.md"
+    - "R-INSPECTION BAHIA":
+      - "R inspection Bahia"      : "./R-inspectionba/rinspectionba.md"
+    - "R-AUTENTICAR":
+      - "R Autenticar": "./R-Autenticar/rautenticar.md"
+    - "R-MONITORAMENTO BAHIA":
+      - "R Monitoramento Bahia"   : "./R-monitoramento/monitoramentoba.md"
+    - "R-CLINICA TRANSITO BAHIA":
+      - "R Clinica transito Bahia": "./R-clinica/rclinicatrba.md"
+    - "R-COLLECTOR DETRAN/PA":
+      - "R Collector Detran/PA"   : "./R-collector_detran/rcollectorpa.md"
+    - "R-MONITORA":
+      - "R Monitora"              : "./R-monitora/rmonitora.md"
+    - "RENOVA TI":
+      - "Renova Ti"               : "./Renovati/renovati.md"
+    - "SISTEMA DE MONITORAMENTO DE SALAS DE EXAMES PRESENCIAIS"  :
+      - "Sistema de Monitoramento de Salas de Exames Presenciais": "./Sistema_de_mto/sistema.md"
+    - "SISTEMA R-CLÍNICAS DE TRÂNSITO":
+      - "Sistema R-Clínicas de Trânsito": "./Sistema_R-Clinica/sistemarcl.md"
+    - "SGDD CGO RENACH":
+      - "Sgdd Cgo Renach"         : "./Sgd_renach/renach.md"
   # - Departamento Pessoal:
   #   - "Exemplo": "Exemplo"
   
