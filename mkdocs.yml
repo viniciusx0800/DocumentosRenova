@@ -20,6 +20,7 @@ nav:
       - "Litoteca Virtual": "./Projetos_Renova/Cbpm_Api/litoteca.md"
       - "R-Collector"     : "./Projetos_Renova/Cbpm_Api/rcolector.md"
       - "Upload Service"  : "./Projetos_Renova/Cbpm_Api/upload.md"
+      - "CBPMAPI": "./Projetos_Renova/Cbpm_Api/cbpmapi.md"
     - "CFC":
       - "Agendamento Digital" : "./Projetos_Renova/Cfc/agendamentodigital.md"
       - "Agendamento Online"  : "./Projetos_Renova/Cfc/agendamentoonline.md"
@@ -87,7 +88,7 @@ nav:
     - "R-INSPECTION":
       - "Biometric Engine"        : "./Projetos_Renova/R_Inspection/biometriceng.md"
       - "Documentação"            : "./Projetos_Renova/R_Inspection/documentacao.md"
-      - "Modelagem Banco de Dados": "./Projetos_Renova/R_Inspection/modelagemdba.md"
+      - "Modelagem Banco de Dados": "./Projetos_Renova/R_Inspection/modelagembanco.md"
       - "R-Inspection 2.0"        : "./Projetos_Renova/R_Inspection/rinspection2.0.md"
       - "R-InspectionAPI"         : "./Projetos_Renova/R_Inspection/rinspectionapi.md"
       - "R-InspectionAPP"         : "./Projetos_Renova/R_Inspection/rinspectionapp.md"
@@ -100,7 +101,7 @@ nav:
     - "R MONITORAMENTO BAHIA":
       - "R Monitoramento Bahia"   : "./Projetos_Renova/R_Monitoramento/monitoramentoba.md"
     - "R CLINICA TRANSITO BAHIA":
-      - "R Clinica transito Bahia": "./Projetos_Renova/R_Clinica_Transito/rclinicatrba.md"
+      - "R Clinica transito Bahia": "./Projetos_Renova/R_Clinica_Transito/rclinicatransito.md"
     - "R COLLECTOR DETRAN/PA":
       - "R Collector Detran/PA"   : "./Projetos_Renova/R_Collector_detran/rcollectorpa.md"
     - "R MONITORA":
@@ -126,7 +127,7 @@ plugins:
 theme:
   name: material
   logo: assets/main-logo.svg
-  palette:
+  palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -147,22 +148,14 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/main-logo.svg
-## Footer
 
-# - **Contact Information**
-#   - Email: your-email@example.com
-#   - Phone: (123) 456-7890
-
-# - **Social Media**
-#   - [Twitter](https://twitter.com/your-twitter)
-#   - [Facebook](https://facebook.com/your-facebook)
-#   - [Instagram](https://instagram.com/your-instagram)
-
-# - **Quick Links**
-#   - [Home](/)
-#   - [About Us](/about)
-#   - [Services](/services)
-#   - [Contact Us](/contact)
-
-# © 2024 Your Website Name. All rights reserved.
-
+  # Customization
+extra:
+  social:
+    - icon: fontawesome/brands/whatsapp
+      link: ht
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/scarf-sh
+    - icon: fontawesome/brands/yandex
+      link: https://renova.net.br/site/
+    
