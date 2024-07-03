@@ -43,7 +43,7 @@ nav:
     - "CROPPING PCPA":
       - "Cropping Pcpa"         : "./Projetos_Renova/Cropping_pcpa/croppingp.md"
     - "CUSTO AZURE":
-      - "Custo Azure"           : "./Projetos_Renova/Custo_Azure/custoazure.md"
+      - "Custo Azure"           : "./Projetos_Renova/Custos_Azure/custoazure.md"
     - "DIGITALIZAÇÃO CBPM":
       - "Digitalização Cbpm"    : "./Projetos_Renova/Digitalizacao_cbpm/digitalizacaocbpm.md"
     - "DIGITALIZAÇÃO PCPA":
@@ -101,7 +101,7 @@ nav:
     - "R MONITORAMENTO BAHIA":
       - "R Monitoramento Bahia"   : "./Projetos_Renova/R_Monitoramento/monitoramentoba.md"
     - "R CLINICA TRANSITO BAHIA":
-      - "R Clinica transito Bahia": "./Projetos_Renova/R_Clinica_Transito/rclinicatransito.md"
+      - "R Clinica transito Bahia": "Projetos_Renova/R_clinica/clinica.md"
     - "R COLLECTOR DETRAN/PA":
       - "R Collector Detran/PA"   : "./Projetos_Renova/R_Collector_detran/rcollectorpa.md"
     - "R MONITORA":
