@@ -12,4 +12,4 @@
 
 altura mínima: 100vh; significa que a altura mínima de um elemento deve ser 100% da altura da janela de visualização . É uma consulta de mídia CSS usada para definir a altura mínima de um elemento como igual à altura da janela de visualização. -->
 
-![site renova ](<https://renova.net.br/site/>){ type=application/pdf style="min-height:100vh;width:155%"}
+![site renova ](<https://renova.net.br/site/>){ type=application/pdf style="min-height:100vh;width:176%"}
