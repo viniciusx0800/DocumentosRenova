@@ -65,7 +65,7 @@ nav:
     - "MOTOR BIOMÉTRICO":
       - "Motor Biométrico"   : "./Projetos_Renova/Motor_Biometrico/motor.md"
     - "PROJETO POLÍCIA CIVIL":
-      - "Consulta Fotograma" : "./Projetos_Renova/Projeto_Policia_civil/consultafoto.md"
+      - "Consulta Fotograma" : "./Projetos_Renova/Projeto_Policia_civil/documentation/index.html"
       - "R-Ged"              : "./Projetos_Renova/Projeto_Policia_civil/rged.md"
       - "R-CroppingAPI"      : "./Projetos_Renova/Projeto_Policia_civil/rcropping.md"
       - "R-Cropping Desktop" : "./Projetos_Renova/Projeto_Policia_civil/rcroppingdesk.md"
